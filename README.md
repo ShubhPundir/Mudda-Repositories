@@ -1,6 +1,7 @@
 # 🌐 Mudda Platform
 
 Mudda is a modular, AI-powered governance and civic engagement platform designed to bridge the gap between citizens and administrative systems. It combines backend services, AI workflows, and user-facing applications into a unified ecosystem.
+🔗 https://www.mudda.dev/
 
 ---
 
@@ -10,11 +11,11 @@ Mudda is a modular, AI-powered governance and civic engagement platform designed
 
 #### Civil Backend
 Handles citizen-side operations, requests, and interactions.  
-👉 https://github.com/Cipher3003/Mudda-backend  
+https://github.com/Cipher3003/Mudda-backend  
 
 #### Government Backend
 Powers administrative workflows and government-side processing.  
-👉 https://github.com/ShubhPundir/Mudda-Government-Backend  
+https://github.com/ShubhPundir/Mudda-Government-Backend  
 
 ---
 
@@ -22,11 +23,11 @@ Powers administrative workflows and government-side processing.
 
 #### RAG for Policies & Memory
 Retrieval-Augmented Generation system for policy understanding and contextual memory.  
-👉 https://github.com/ShubhPundir/Mudda-RAG  
+https://github.com/ShubhPundir/Mudda-RAG  
 
 #### AI Planning Agents & Workflow Orchestration
 Agentic system responsible for task planning, execution, and orchestration of workflows.  
-👉 https://github.com/ShubhPundir/Mudda-AI-Workflow  
+https://github.com/ShubhPundir/Mudda-AI-Workflow  
 
 #### SLM & Fine-Tuned Background Workers
 Custom small language models and AI workers deployed on Azure for asynchronous processing.  
@@ -38,11 +39,11 @@ _(Private / No public repository)_
 
 #### Government Dashboard
 Administrative interface for monitoring, analytics, and decision-making.  
-👉 https://github.com/ShubhPundir/Mudda-Dashboard  
+https://github.com/ShubhPundir/Mudda-Dashboard  
 
 #### Civilian Mobile App
 User-facing mobile application for citizen engagement.  
-👉 https://github.com/DivSaumil/mudda_frontend  
+https://github.com/DivSaumil/mudda_frontend  
 
 ---
 
