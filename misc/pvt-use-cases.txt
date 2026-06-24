@@ -1,0 +1,49 @@
+1. AI Company Brain for Ops use-cases
+	internal knowledge base for all mediums
+	Every company has critical know-how scattered everywhere. 
+	Some of it lives in people's heads, old email accounts, Slack threads, 
+	support tickets, and databases. 
+	The company works because humans vaguely remember where that 
+	knowledge is and how to apply it.
+	
+	AI for Unstructured Communication
+	
+	AI for logistics and ops use-case
+
+
+Option A — AI Workflow OS for mid-sized companies
+
+Focus:
+	approvals
+	operations
+	reporting
+	coordination
+Why:
+	huge demand
+	recurring revenue
+	enterprise expansion potential
+
+
+Option B — AI Executive Assistant OS
+AI layer across:
+	calendar
+	email
+	docs
+	meetings
+	tasks
+	CRM
+
+Target:
+	founders
+	VPs
+	sales leaders
+This can grow virally.
+
+Option C — AI Internal Search + Action Layer
+This is likely the easiest MVP.
+“Ask your company anything.”
+Then gradually:
+	automate
+	execute
+	orchestrate
+Very strong wedge.
