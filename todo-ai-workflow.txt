@@ -1,0 +1,5 @@
+1. connect backend open issues btn to resolve issues --> AI-Workflow
+2. make frontend more beautiful by having RAG animations
+3. Make AI planning better visually 
+4. change the first step of planning by introducing full issue details forwarded over by frontend
+

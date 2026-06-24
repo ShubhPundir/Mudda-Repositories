@@ -1,0 +1,38 @@
+Good morning Sir, I am Shubh Pundir, I am leading the development on Mudda, an decision-support solution to government problems. 
+
+I have been studying how departments like NDMC handle complaints and internal workflow 
+and I wanted to validate my understanding regarding that.
+
+From what I’ve seen, complaint intake is actually strong — through helplines, apps, portals.
+But the bottleneck seems to be after that
+
+1.similar complaints get handled separately --> group duplicate issues
+2. routing to the right department takes time --> suggesting priority based on impact
+3. and officers still rely on manual judgment to prioritize --> drafting the next action or work order from institutional memory
+
+	“Does something like this actually fit into how NDMC operates today?
+	Or are there constraints I’m missing?”
+
+	Does this align with where the actual bottlenecks are?
+	Or am I oversimplifying something
+
+“What we’re building with Mudda is not a replacement system.
+It’s a decision-support layer on top of your existing setup.”
+
+
+
+Solutions:
+1. Sir, today complaints come in different formats — voice, text, etc.
+	Mudda standardizes and structures them instantly into a single incident
+2. Priority is suggested based on impact — not just who complaine 
+	with intelligent routing to correct department based on location, department, and workload.
+3. it assists officers by suggesting next steps
+	Policy understanding assistant
+	Past records how issues were dealt with
+	Draft work orders with human review
+	Recommends actions and officer approves
+	Automatic follow up to field workers to track execution
+
+4. Instead of dashboards showing complaints, you see live incidents and priorities
+	Better control for chairperson
+	Proactive governance
